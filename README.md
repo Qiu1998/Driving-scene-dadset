@@ -3,4 +3,4 @@ The driving scene dataset includes nine categories, consists of training set and
 
 <div align="center">
 <img src="https://github.com/Qiu1998/Driving-scene-dataset/blob/master/Examples/Country%20Road.png" height="200" width="267" alt="rr"/ >
-
+<img src="https://github.com/Qiu1998/Driving-scene-dataset/blob/master/Examples/Parking%20Lot.png" height="200" width="267" alt="rr"/
