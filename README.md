@@ -3,8 +3,6 @@ The driving scene dataset includes nine categories, consists of training set and
 
 <div align="center">
  
- dd  
- 
 <img src="https://github.com/Qiu1998/Driving-scene-dataset/blob/master/Examples/Village%20road.jpg" height="200" width="267" alt="rr"/ >
 
 <img src="https://github.com/Qiu1998/Driving-scene-dataset/blob/master/Examples/parking%20lot.jpg" height="200" width="267" alt="country road"/>
@@ -30,3 +28,5 @@ The driving scene dataset includes nine categories, consists of training set and
 <img src="https://github.com/Qiu1998/Driving-scene-dataset/blob/master/Examples/zebracrossing.jpg" height="200" width="267" >
 
  </div>
+ 
+ <img src="https://img-blog.csdn.net/20161028230559575" width="150" height="200" alt="图片描述文字"/>
